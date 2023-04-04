@@ -21,6 +21,9 @@ Four steps were involved in the creation of this report:
 EXECUTIVE SUMMARY
 ![image1Di](https://user-images.githubusercontent.com/128378578/229768387-2ae29cb9-d09d-4540-90b3-bc0058b0a575.png)
 
+PRODUCT DETAILS
+![image2Di](https://user-images.githubusercontent.com/128378578/229768697-01d792a6-b1e8-418d-8cc5-d86f9ee7765f.png)
+
 (Maven Market : Bonus project at the end of the course with the same four steps)
 
 
