@@ -18,4 +18,9 @@ Four steps were involved in the creation of this report:
 3. Creating **calculated columns** as well as **DAX** (Data Analysis Expressions) measures
 4. Finally, designing an **interactive report** to visualize the data.
 
+EXECUTIVE SUMMARY
+![image1Di](https://user-images.githubusercontent.com/128378578/229768387-2ae29cb9-d09d-4540-90b3-bc0058b0a575.png)
+
 (Maven Market : Bonus project at the end of the course with the same four steps)
+
+
