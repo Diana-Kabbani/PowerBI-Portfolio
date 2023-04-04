@@ -24,6 +24,9 @@ EXECUTIVE SUMMARY
 PRODUCT DETAILS
 ![image2Di](https://user-images.githubusercontent.com/128378578/229768697-01d792a6-b1e8-418d-8cc5-d86f9ee7765f.png)
 
+CUSTOMER DETAILS
+![image3Di](https://user-images.githubusercontent.com/128378578/229768854-3de75b35-0d99-449f-8306-b26e44bf1585.png)
+
 (Maven Market : Bonus project at the end of the course with the same four steps)
 
 
